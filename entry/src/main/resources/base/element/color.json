@@ -1,0 +1,20 @@
+{
+  "color": [
+    { "name": "start_window_background", "value": "#0A0A0B" },
+    { "name": "page_background", "value": "#0A0A0B" },
+    { "name": "surface_background", "value": "#141416" },
+    { "name": "tab_bar_background", "value": "#111113" },
+    { "name": "tab_divider", "value": "#1E1E22" },
+    { "name": "text_primary", "value": "#F5F0E8" },
+    { "name": "text_secondary", "value": "#8E8E93" },
+    { "name": "text_tertiary", "value": "#6B6B70" },
+    { "name": "accent_primary", "value": "#E8B923" },
+    { "name": "accent_warm", "value": "#F5F0E8" },
+    { "name": "badge_background", "value": "#1E1E22" },
+    { "name": "divider", "value": "#2A2A2E" },
+    { "name": "danger", "value": "#FF453A" },
+    { "name": "success", "value": "#30D158" },
+    { "name": "tab_normal", "value": "#6B6B70" },
+    { "name": "tab_selected", "value": "#E8B923" }
+  ]
+}

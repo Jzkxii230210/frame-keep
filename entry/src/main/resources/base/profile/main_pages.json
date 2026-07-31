@@ -1,0 +1,28 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/auth/LoginPage",
+    "pages/auth/RegisterPage",
+    "pages/collect/ImportPage",
+    "pages/collect/TagManage",
+    "pages/collect/MaterialDetail",
+    "pages/collect/RecycleBin",
+    "pages/create/CardManage",
+    "pages/card/TemplateSelect",
+    "pages/card/CardEdit",
+    "pages/card/CardExport",
+    "pages/card/MyTemplate",
+    "pages/video/VideoClip",
+    "pages/video/SubtitleEdit",
+    "pages/video/AudioConfig",
+    "pages/video/VideoExport",
+    "pages/discover/TopicDetail",
+    "pages/discover/FilmList",
+    "pages/discover/SceneLibraryDetail",
+    "pages/album/AlbumEdit",
+    "pages/album/AlbumPreview",
+    "pages/profile/SettingPage",
+    "pages/profile/HelpFeedback",
+    "pages/profile/DataStatisticsPage"
+  ]
+}
